@@ -1,0 +1,19 @@
+{
+  "name": "3dtiles-downloader",
+  "version": "1.0.0",
+  "description": "下载3DTiles地图数据并保持目录结构",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "serve": "node web_ui.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "cli-progress": "^3.12.0",
+    "express": "^4.18.2",
+    "fs-extra": "^11.1.1",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.7",
+    "url": "^0.11.3"
+  }
+}
