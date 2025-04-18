@@ -1,5 +1,7 @@
 # 3DTiles 地图数据下载工具
 
+[English](README_EN.md) | 简体中文
+
 一个用于下载3DTiles格式地图数据的Node.js工具，支持目录结构保持和断点续传功能。
 
 ## 主要特性
